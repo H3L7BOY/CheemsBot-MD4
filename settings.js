@@ -43,7 +43,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
-global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
+global.vidmenu = fs.readFileSync("https://i.imgur.com/k2dnOWd.mp4") //gif and video menu
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -54,32 +54,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['79096190363'] //ur owner number
+global.ownername = "𝗜 𝗔𝗠 𝗛𝗘𝗟𝗟𝗕𝗢𝗬 🇮🇳⃟" //ur owner name
+global.ytname = "YT: HELLNODZ" //ur yt chanel name
+global.socialm = "GitHub: H3L7BOY" //ur github or insta name
+global.location = "India, kerala, kl05" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.owner = ['79096190363']
+global.ownertag = '37122234646' //ur tag number
+global.botname = 'LEXHA BOT' //ur bot name
+global.linkz = "https://instagram.com/wa_botzone?igshid=YmMyMTA2M2Y=" //your theme url which will be displayed on whatsapp
+global.websitex = "https://instagram.com/wa_botzone?igshid=YmMyMTA2M2Y=" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.reactmoji = "🫶🏻" //ur menu react emoji
+global.themeemoji = "👾" //ur theme emoji
+global.packname = "𝛭𝛥𝐷𝛯 𝑊𝛪𝑇𝛨 𝐿𝛯𝛸𝛨𝛥 𝐵𝛩𝑇 " //ur sticker watermark packname
+global.author = "𝗜 𝗔𝗠 𝗛𝗘𝗟𝗟𝗕𝗢𝗬 🇮🇳⃟" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://i.imgur.com/oLS4zbG.jpeg") //ur thumb pic
+global.log0 = fs.readFileSync("https://i.imgur.com/j23yrB8.jpeg") //ur logo pic
+global.err4r = fs.readFileSync("https://i.imgur.com/oWYrYex.jpeg") //ur error pic
+global.thumb = fs.readFileSync("https://i.imgur.com/oLS4zbG.jpeg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['79096190363'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
